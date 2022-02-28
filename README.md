@@ -1,10 +1,5 @@
-# Clothing Store Using ReactJs | Firebase | Redux | Stripe Payment
+# Store Using ReactJs | Firebase | Redux | Stripe Payment
 
-## [Check it live here](https://meshstore.netlify.app/)
-
-<img src="https://i.ibb.co/C0BjKSK/smartmockups-kbyey1qx.jpg" alt="smartmockups-kbyey1qx" border="0">
-
-Ecommerce website build using React and Firebase.
 
 ## Tech Info of App
 
