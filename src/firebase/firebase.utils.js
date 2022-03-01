@@ -5,7 +5,7 @@ import "firebase/auth";
 const config = {
   apiKey: "AIzaSyDYU7Ry7YnlfvBl4LKIork_AIcRTDZ3gGE",
   authDomain: "react-store-chi.vercel.app",
-  databaseURL: "https://jls-react-default-rtdb.firebaseio.com",
+  databaseURL: "https://jls-react-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "jls-react",
   storageBucket: "jls-react.appspot.com",
   messagingSenderId: "599654946369",
