@@ -1,10 +1,9 @@
 import firebase from "firebase/app";
 import "firebase/firestore";
 import "firebase/auth";
-require("dotenv").config();
 
 const config = {
-  apiKey: process.env.REACT_APP_API_KEY,
+  apiKey: "AIzaSyDYU7Ry7YnlfvBl4LKIork_AIcRTDZ3gGE",
   authDomain: "jls-react.firebaseapp.com",
   databaseURL: "https://jls-react-default-rtdb.firebaseio.com",
   projectId: "jls-react",
